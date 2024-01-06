@@ -1,5 +1,7 @@
+/* it find factorial of a number*/
 class Factorial
 {
+   
    public static void main(String args[])
    {
        int i,num,fact=1;
