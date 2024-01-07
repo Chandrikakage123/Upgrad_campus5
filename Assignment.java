@@ -4,7 +4,7 @@ Ans: To initialize a repository to a directory in git you need to
      folder will appear.
 
 2. What is the command to add a message to a commit?
-Ans: git commit -m "".
+Ans: git commit -m "write a commit".
  
 3. What does the git push command do?
 Ans: The git push command is used to push the content in a local
